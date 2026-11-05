@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+.playwright-runtime/
+.env
+.env.*
+npm-debug.log*
+playwright-report/
+test-results/

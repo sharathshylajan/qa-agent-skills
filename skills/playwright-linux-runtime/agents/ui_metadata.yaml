@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playwright Linux Runtime"
+  short_description: "Prepare fresh Linux workspaces for authenticated headless Chromium testing"
+  brand_color: "#2EAD33"
