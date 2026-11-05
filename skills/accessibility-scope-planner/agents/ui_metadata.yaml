@@ -1,0 +1,4 @@
+interface:
+  display_name: "accessibility-scope-planner"
+  short_description: "Reusable accessibility audit workflow skill"
+  brand_color: "#4F46E5"
