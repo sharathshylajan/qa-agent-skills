@@ -185,6 +185,7 @@ Immediately before sending verify:
 6.  Recipients contain exactly:
     -   `poovarasu.g@publicissapient.com`
     -   `sharath.ks@publicissapient.com`
+    -   `anurag.negi1@publicissapient.com`
 7.  The final assessment was generated during the current execution.
 8.  The final assessment passed validation.
 9.  Attachments are allowed for `Testing_Type`.
