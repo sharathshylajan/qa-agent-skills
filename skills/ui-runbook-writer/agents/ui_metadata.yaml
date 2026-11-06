@@ -1,0 +1,3 @@
+interface:
+  display_name: "UI Runbook Writer"
+  short_description: "Creates validated UI runbooks with smart live-page target discovery"
